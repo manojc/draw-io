@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="Y4OJ4k2NE0KKx35pumax">
+    <mxGraphModel dx="2297" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-35" value="Kitchen&lt;br&gt;10X6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-1" value="10X13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="400" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-2" value="12X13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="480" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-4" value="7X2.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-5" value="7X4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-6" value="4X1.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-10" value="S" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-11" value="N" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-13" value="Private WC&lt;br&gt;8X5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-17" value="6X1.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-18" value="7X6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-19" value="5.5X2.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="540" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-20" value="Dressing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-21" value="Drawer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="450" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="265" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="265" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-24" value="Hall&lt;br&gt;11X17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="640" width="440" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-25" value="Gallery&lt;br&gt;11X6.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="390" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-26" value="Kitchen&lt;br&gt;10X11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="400" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1320" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-28" value="Common WC&lt;br&gt;7X5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="850" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-29" value="Dry Balcony&lt;br&gt;7X6.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1060" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#010101;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1050" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#010101;" vertex="1" parent="1">
+          <mxGeometry x="640" y="840" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="860" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="850" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-38" value="Wash Basin&lt;br&gt;4X5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7yRYNvdEddrGFZpEOyAv-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1060" width="10" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
